@@ -1,0 +1,1614 @@
+[
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Managing stress involves small steps take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Progressive muscle relaxation helps tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons what can you learn from them?"
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "It's okay to feel anxious. Try deep breathing inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons what can you learn from them?"
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Managing stress involves small steps   take breaks, practice mindfulness, and talk to someone you trust."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm constantly worried about the future.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "You're not alone, even if it feels that way. Consider reaching out to a friend or counselor."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "What should I do if I'm feeling emotionally numb?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "What are some simple relaxation techniques?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I feel so alone and sad.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I get really nervous in social situations.",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "How can I improve my mental well-being daily?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "During a panic attack, focus on your breath and use the 5-4-3-2-1 method: name 5 things you can see, 4 you can touch, etc."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Fear of failure is natural. Reframe it: failures are lessons   what can you learn from them?"
+  },
+  {
+    "instruction": "How do I handle work-related stress?",
+    "response": "For work stress, list your tasks, prioritize them, and set boundaries for breaks."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "A consistent bedtime routine can help. Avoid screens before bed and try reading a calming book."
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Progressive muscle relaxation helps   tense each muscle for 5 seconds, then release."
+  },
+  {
+    "instruction": "I'm having trouble sleeping at night.",
+    "response": "It's okay to feel anxious. Try deep breathing   inhale for 4 seconds, hold for 4, and exhale for 4."
+  },
+  {
+    "instruction": "What should I do when I'm overwhelmed?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "Can you help me calm down during a panic attack?",
+    "response": "Low energy can be linked to burnout. Rest, hydrate, and engage in something you enjoy."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Emotional numbness may signal burnout. Reflect on what's draining you and add small joys into your day."
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Mental well-being grows through routine: daily walks, meditation, and connecting with loved ones."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "Focus issues are normal under stress. Try the Pomodoro method: work for 25 mins, then rest for 5."
+  },
+  {
+    "instruction": "Can you suggest a mindfulness exercise?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "How can I build better self-esteem?",
+    "response": "Overthinking spirals are hard. Distract your mind by engaging in an absorbing activity like a puzzle."
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I keep having negative thoughts. How do I stop?",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Social anxiety is tough. Start small   smile at someone or ask a simple question, then build from there."
+  },
+  {
+    "instruction": "How can I manage my stress?",
+    "response": "When overwhelmed, break tasks into smaller steps and focus on one thing at a time."
+  },
+  {
+    "instruction": "I feel like I have no energy for anything.",
+    "response": "Negative thoughts happen. Challenge them by asking yourself: 'Is this thought really true?'"
+  },
+  {
+    "instruction": "I'm afraid of failing. How can I cope?",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I feel really anxious today.",
+    "response": "Boosting self-esteem starts with self-compassion. Acknowledge your efforts, even small ones."
+  },
+  {
+    "instruction": "How do I stop overthinking everything?",
+    "response": "Worries about the future are valid. Focus on what you can control and practice grounding techniques."
+  },
+  {
+    "instruction": "I'm struggling to focus on my work.",
+    "response": "Hopelessness can be overwhelming. Try journaling small wins each day, no matter how tiny."
+  },
+  {
+    "instruction": "I feel unmotivated and hopeless.",
+    "response": "A simple mindfulness exercise: sit quietly, notice your breath, and count each inhale and exhale."
+  }
+]
